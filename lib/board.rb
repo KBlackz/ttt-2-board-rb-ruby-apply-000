@@ -1,4 +1,5 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe"
-puts
+puts "____|____|____"
+puts "____|____|____"
